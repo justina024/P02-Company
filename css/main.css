@@ -10,9 +10,8 @@
 
 
 body {
-<<<<<<< HEAD
+
   font-family: sans-serif;
-=======
   font-family: Avenir;
 >>>>>>> master
   padding: 2rem;
@@ -34,10 +33,7 @@ section p {
 
 section code {
   background-color: #EEE;
-<<<<<<< HEAD
-=======
   font-size:80%;
->>>>>>> master
   padding: 0.5em 0.75em;
 }
 
